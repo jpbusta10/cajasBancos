@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1663688117 source:c:\users\jpbus\desktop\facultad\programacion 2\cajas de banco bustamante\lista2.c
+	"lista2.h"
+
+1663626462 c:\users\jpbus\desktop\facultad\programacion 2\cajas de banco bustamante\lista2.h
+	"cliente.h"
+
+1663597019 c:\users\jpbus\desktop\facultad\programacion 2\cajas de banco bustamante\listasimple.h
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+
+1663626462 source:c:\users\jpbus\desktop\facultad\programacion 2\cajas de banco bustamante\listasimple.c
+	"listaSimple.h"
+
+1663859982 source:c:\users\jpbus\desktop\facultad\programacion 2\cajas de banco bustamante\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"lista2.h"
+	"listaSimple.h"
+	"filas.h"
+	<stdbool.h>
+
+1663599373 c:\users\jpbus\desktop\facultad\programacion 2\cajas de banco bustamante\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"lista2.h"
+	"cliente.h"
+
+1663596833 source:c:\users\jpbus\desktop\facultad\programacion 2\cajas de banco bustamante\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1663599340 c:\users\jpbus\desktop\facultad\programacion 2\cajas de banco bustamante\cliente.h
+	<stdio.h>
+	<stdlib.h>
+
+1663856520 source:c:\users\jpbus\desktop\facultad\programacion 2\cajas de banco bustamante\filas.c
+	"filas.h"
+
+1663852582 c:\users\jpbus\desktop\facultad\programacion 2\cajas de banco bustamante\filas.h
+	"lista2.h"
+	"listaSimple.h"
+	<string.h>
+
